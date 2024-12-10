@@ -1,0 +1,18 @@
+.st{
+    position: sticky;
+    top: 0;
+    z-index: 4;
+}
+.ma{
+    margin: auto;
+}
+.p-l{
+    padding-left: 550px;
+}
+.t-c{
+    text-align: center;
+}
+.p-t{
+    padding-top: 200px;
+}
+
